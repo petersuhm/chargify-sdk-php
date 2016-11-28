@@ -1,6 +1,6 @@
 {
-    "name": "chargely/chargify-sdk-php",
-    "homepage": "https://github.com/chargely/chargify-sdk-php",
+    "name": "petersuhm/chargify-sdk-php",
+    "homepage": "https://github.com/petersuhm/chargify-sdk-php",
     "description": "Chargify SDK for PHP - Use the Chargify API in your PHP project",
     "keywords": [
         "chargify",
